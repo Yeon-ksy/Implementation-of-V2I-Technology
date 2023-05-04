@@ -1,6 +1,6 @@
 # 3조 IoT project
 ## 주제 : 아두이노 IoT를 이용한 V2I 기술의 구현
-
+![ezgif com-optimize (1)](https://user-images.githubusercontent.com/69943723/236184807-8f8c688b-9a9c-4681-bb74-1a98d6f7164c.gif)
 ## 팀원 : 
   - 송승훈 : Infra 코드 담당
   - 백준형 : 통신 코드 담당
